@@ -12,9 +12,6 @@
   <a href="mailto:mahasethleena@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mediroute-in.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Project-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -23,9 +20,8 @@
 
 I'm a 4th-year CS undergrad at NIT Silchar building production-grade full-stack and ML systems. I care about writing clean code, shipping real products, and solving problems that matter.
 
-- 🔭 Currently building **MediRoute** — AI symptom triage and hospital navigator
 - 🌱 Deepening knowledge in ML systems and distributed backend architecture  
-- 🎯 Targeting SDE and ML Engineer roles — 2027 placements
+- 🎯 Targeting SDE and ML Engineer roles 
 - 🌏 From Nepal, studying in India
 
 ---
